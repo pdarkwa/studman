@@ -1,0 +1,2 @@
+# studman
+Student management system
